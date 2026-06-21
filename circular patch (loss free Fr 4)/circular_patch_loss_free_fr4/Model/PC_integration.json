@@ -1,0 +1,102 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "sub_l",
+         "type": "float",
+         "value": 40.0
+      },
+      {
+         "name": "sub_w",
+         "type": "float",
+         "value": 40.0
+      },
+      {
+         "name": "r",
+         "type": "float",
+         "value": 12.5365
+      },
+      {
+         "name": "s1",
+         "type": "float",
+         "value": 19.0
+      },
+      {
+         "name": "wf",
+         "type": "float",
+         "value": 3.0
+      },
+      {
+         "name": "lf",
+         "type": "float",
+         "value": 21.0
+      },
+      {
+         "name": "port_len",
+         "type": "float",
+         "value": 8.0
+      },
+      {
+         "name": "s2",
+         "type": "float",
+         "value": 26.0
+      },
+      {
+         "name": "s3",
+         "type": "float",
+         "value": 11.0
+      },
+      {
+         "name": "l1",
+         "type": "float",
+         "value": 20.0
+      },
+      {
+         "name": "l2",
+         "type": "float",
+         "value": 5.0
+      },
+      {
+         "name": "l3",
+         "type": "float",
+         "value": 3.7
+      },
+      {
+         "name": "ws",
+         "type": "float",
+         "value": 0.5
+      },
+      {
+         "name": "tc",
+         "type": "float",
+         "value": 0.035
+      },
+      {
+         "name": "sub_h",
+         "type": "float",
+         "value": 1.6
+      },
+      {
+         "name": "s4",
+         "type": "float",
+         "value": 4.0
+      }
+   ],
+   "outputVariables": [
+      {
+         "len": 1,
+         "name": "3D\\Export Farfields to 3DEXPERIENCE Content",
+         "type": "float",
+         "value": 2.0
+      },
+      {
+         "len": 1,
+         "name": "3D\\Export Farfields to 3DEXPERIENCE Content_1",
+         "type": "float",
+         "value": 2.0
+      }
+   ]
+}

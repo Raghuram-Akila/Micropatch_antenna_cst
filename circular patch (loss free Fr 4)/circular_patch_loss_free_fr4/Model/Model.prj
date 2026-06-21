@@ -1,0 +1,13 @@
+{
+   "Author": "raghu_akila",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Time Domain",
+   "Last Solver Type Abb": "t",
+   "Mesh Cells": "552,960",
+   "Mesh Type": "Hexahedral",
+   "Modeler Unique ID": "5:circular_patch_loss_free_fr4.cst?9bed9e3b3c5e4fb9287c62314a86f9be?16094:numberofparameters=12:port=1>mode=1>zre=0>zim=0:::l1?l3?r?s2?s3?s4?sub_h?sub_l?sub_w?tc?wf?ws",
+   "ProjectVersion": "'# MWS Version: Version 2025.0 - Aug 30 2024 - ACIS 34.0.1 -",
+   "Results": "Time Domain: S-Parameter",
+   "Version": "3"
+}
